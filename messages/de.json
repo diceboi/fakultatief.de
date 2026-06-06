@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "Fakultatief Garage — Professionelle Fahrzeugaufbereitung",
+    "description": "Premium Autopflege, Lackpolitur und Keramikversiegelung in Deutschland. Fakultatief Garage – Ihr Spezialist für perfekten Glanz."
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "gallery": "Galerie",
+    "process": "Ablauf",
+    "contact": "Kontakt",
+    "whatsapp": "WhatsApp schreiben"
+  },
+  "hero": {
+    "title": "Fakultatief Garage",
+    "subtitle": "Fahrzeugaufbereitung & Lackpflege auf höchstem Niveau",
+    "cta": "WhatsApp schreiben",
+    "ctaSecondary": "Unsere Leistungen",
+    "badge": "Premium Detailing"
+  },
+  "about": {
+    "label": "Über uns",
+    "title": "Perfektion trifft Leidenschaft",
+    "description": "Fakultatief Garage ist Ihr Experte für professionelle Fahrzeugaufbereitung in Deutschland. Mit modernster Ausstattung, einem Hexagon-LED-beleuchteten Studio und hochwertigen Produkten bringen wir Ihren Wagen auf das nächste Level.",
+    "features": {
+      "experience": "Jahrelange Erfahrung in der Branche",
+      "quality": "Nur hochwertige Produkte & Materialien",
+      "studio": "Professionell ausgestattetes Studio",
+      "guarantee": "100 % Zufriedenheitsgarantie"
+    },
+    "cta": "Mehr erfahren"
+  },
+  "services": {
+    "label": "Leistungen",
+    "title": "Unsere Dienstleistungen",
+    "items": {
+      "polish": {
+        "title": "Lackpolitur",
+        "description": "Professionelle Lackkorrekturen entfernen Kratzer, Swirls und Oxidation – für perfekten Glanz und Tiefe."
+      },
+      "ceramic": {
+        "title": "Keramikversiegelung",
+        "description": "Langanhaltender Schutz und unvergleichlicher Glanz durch modernste Keramikbeschichtung."
+      },
+      "interior": {
+        "title": "Innenreinigung",
+        "description": "Tiefenreinigung von Leder, Stoff und allen Innenraum-Oberflächen für ein neuwertiges Fahrgefühl."
+      },
+      "headlight": {
+        "title": "Scheinwerfer-Aufbereitung",
+        "description": "Vergilbte und matte Scheinwerfer werden wieder kristallklar – bessere Optik und Sicherheit."
+      },
+      "engine": {
+        "title": "Motorwäsche",
+        "description": "Schonende und gründliche Reinigung des Motorraums mit professionellen Mitteln."
+      },
+      "transmission": {
+        "title": "Automatikgetriebe-Service",
+        "description": "Spülung und Reinigung des Automatikgetriebes für bessere Performance und Langlebigkeit."
+      }
+    },
+    "cta": "Jetzt anfragen"
+  },
+  "process": {
+    "label": "Ablauf",
+    "title": "Unser Arbeitsprozess",
+    "steps": {
+      "step1": {
+        "number": "01",
+        "title": "Terminvereinbarung",
+        "description": "Kontaktieren Sie uns per WhatsApp oder Telefon – wir finden gemeinsam Ihren Wunschtermin."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Fahrzeuginspektion",
+        "description": "Vor Ort prüfen wir den Zustand Ihres Fahrzeugs und besprechen die optimale Behandlung."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Aufbereitung",
+        "description": "Unser Team arbeitet mit höchster Sorgfalt und modernster Technik an Ihrem Fahrzeug."
+      },
+      "step4": {
+        "number": "04",
+        "title": "Übergabe",
+        "description": "Sie erhalten Ihr Fahrzeug in neuwertigem Zustand – inklusive Pflegetipps und Garantie."
+      }
+    }
+  },
+  "gallery": {
+    "label": "Galerie",
+    "title": "Unsere Arbeiten",
+    "filters": {
+      "all": "Alle",
+      "polish": "Politur",
+      "ceramic": "Keramik",
+      "interior": "Interior",
+      "studio": "Studio"
+    },
+    "cta": "Alle Projekte ansehen"
+  },
+  "contact": {
+    "label": "Kontakt",
+    "title": "Kontaktieren Sie uns",
+    "whatsappBanner": "Schreiben Sie uns direkt auf WhatsApp",
+    "whatsappBtn": "Jetzt auf WhatsApp schreiben",
+    "info": {
+      "address": "Adresse",
+      "addressValue": "Deutschland",
+      "phone": "Telefon",
+      "phoneValue": "+49 XXX XXXXXXX",
+      "email": "E-Mail",
+      "emailValue": "info@fakultatief.de",
+      "hours": "Öffnungszeiten",
+      "hoursValue": "Mo – Fr: 08:00 – 17:00 | Sa: 09:00 – 14:00"
+    },
+    "form": {
+      "name": "Ihr Name",
+      "email": "Ihre E-Mail",
+      "message": "Ihre Nachricht",
+      "send": "Nachricht senden"
+    }
+  },
+  "footer": {
+    "description": "Premium Fahrzeugaufbereitung in Deutschland. Professionelle Lackpolitur, Keramikversiegelung und Autokosmetik.",
+    "quickLinks": "Schnelllinks",
+    "ourServices": "Leistungen",
+    "contactTitle": "Kontakt",
+    "rights": "Alle Rechte vorbehalten.",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz"
+  }
+}

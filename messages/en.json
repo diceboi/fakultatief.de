@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "Fakultatief Garage — Professional Car Detailing",
+    "description": "Premium car care, paint correction and ceramic coating in Germany. Fakultatief Garage – your specialist for a perfect shine."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "process": "Process",
+    "contact": "Contact",
+    "whatsapp": "Write on WhatsApp"
+  },
+  "hero": {
+    "title": "fakultatief garage",
+    "subtitle": "Car Detailing & Paint Care at the Highest Level",
+    "cta": "Write on WhatsApp",
+    "ctaSecondary": "Our Services",
+    "badge": "Premium Detailing"
+  },
+  "about": {
+    "label": "About Us",
+    "title": "Perfection Meets Passion",
+    "description": "Fakultatief Garage is your expert for professional car detailing in Germany. With state-of-the-art equipment, a hexagon LED-lit studio, and premium products, we take your vehicle to the next level.",
+    "features": {
+      "experience": "Years of industry experience",
+      "quality": "Only premium products & materials",
+      "studio": "Professionally equipped studio",
+      "guarantee": "100% satisfaction guarantee"
+    },
+    "cta": "Learn more"
+  },
+  "services": {
+    "label": "Services",
+    "title": "Our Services",
+    "items": {
+      "polish": {
+        "title": "Paint Correction",
+        "description": "Professional paint corrections remove scratches, swirls and oxidation – for perfect gloss and depth."
+      },
+      "ceramic": {
+        "title": "Ceramic Coating",
+        "description": "Long-lasting protection and unparalleled shine through state-of-the-art ceramic coating technology."
+      },
+      "interior": {
+        "title": "Interior Cleaning",
+        "description": "Deep cleaning of leather, fabric and all interior surfaces for a like-new driving experience."
+      },
+      "headlight": {
+        "title": "Headlight Restoration",
+        "description": "Yellowed and cloudy headlights are restored to crystal clarity – better aesthetics and safety."
+      },
+      "engine": {
+        "title": "Engine Bay Cleaning",
+        "description": "Gentle and thorough engine bay cleaning using professional-grade products."
+      },
+      "transmission": {
+        "title": "Automatic Transmission Service",
+        "description": "Flushing and cleaning of automatic transmissions for better performance and longevity."
+      }
+    },
+    "cta": "Inquire now"
+  },
+  "process": {
+    "label": "Process",
+    "title": "Our Workflow",
+    "steps": {
+      "step1": {
+        "number": "01",
+        "title": "Appointment",
+        "description": "Contact us via WhatsApp or phone – we'll find your preferred time slot together."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Vehicle Inspection",
+        "description": "On-site, we assess the condition of your vehicle and discuss the optimal treatment plan."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Detailing",
+        "description": "Our team works with the utmost care and modern techniques on your vehicle."
+      },
+      "step4": {
+        "number": "04",
+        "title": "Handover",
+        "description": "You receive your vehicle in pristine condition – including care tips and warranty."
+      }
+    }
+  },
+  "gallery": {
+    "label": "Gallery",
+    "title": "Our Work",
+    "filters": {
+      "all": "All",
+      "polish": "Polishing",
+      "ceramic": "Ceramic",
+      "interior": "Interior",
+      "studio": "Studio"
+    },
+    "cta": "View all projects"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Get in Touch",
+    "whatsappBanner": "Write to us directly on WhatsApp",
+    "whatsappBtn": "Write on WhatsApp now",
+    "info": {
+      "address": "Address",
+      "addressValue": "Germany",
+      "phone": "Phone",
+      "phoneValue": "+49 XXX XXXXXXX",
+      "email": "Email",
+      "emailValue": "info@fakultatief.de",
+      "hours": "Business Hours",
+      "hoursValue": "Mon – Fri: 08:00 – 17:00 | Sat: 09:00 – 14:00"
+    },
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Premium car detailing in Germany. Professional paint correction, ceramic coating and auto cosmetics.",
+    "quickLinks": "Quick Links",
+    "ourServices": "Services",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved.",
+    "impressum": "Legal Notice",
+    "datenschutz": "Privacy Policy"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "Fakultatief Garage — Professzionális Autókozmetika",
+    "description": "Prémium autóápolás, lakkjavítás és kerámia bevonat Németországban. Fakultatief Garage – a tökéletes fény specialistája."
+  },
+  "nav": {
+    "home": "Főoldal",
+    "about": "Rólunk",
+    "services": "Tevékenységek",
+    "gallery": "Képek",
+    "process": "Folyamat",
+    "contact": "Kapcsolat",
+    "whatsapp": "Írj WhatsApp-on"
+  },
+  "hero": {
+    "title": "Fakultatief Garage",
+    "subtitle": "Autókozmetika és lakkápolás a legmagasabb szinten",
+    "cta": "Írj WhatsApp-on",
+    "ctaSecondary": "Szolgáltatásaink",
+    "badge": "Prémium Detailing"
+  },
+  "about": {
+    "label": "Rólunk",
+    "title": "Tökéletesség és Szenvedély",
+    "description": "A Fakultatief Garage Németországban nyújt professzionális autókozmetikai szolgáltatásokat. Korszerű felszereltséggel, hexagonális LED-es stúdióval és prémium termékekkel dolgozunk, hogy autód ragyogjon.",
+    "features": {
+      "experience": "Többéves szakmai tapasztalat",
+      "quality": "Kizárólag prémium anyagok és termékek",
+      "studio": "Professzionálisan felszerelt stúdió",
+      "guarantee": "100%-os elégedettségi garancia"
+    },
+    "cta": "Tudj meg többet"
+  },
+  "services": {
+    "label": "Tevékenységek",
+    "title": "Szolgáltatásaink",
+    "items": {
+      "polish": {
+        "title": "Lakkjavítás & Polírozás",
+        "description": "Professzionális lakkkorrekció, amely eltávolítja a karcolásokat, swirl-öket és az oxidációt – tökéletes fényért."
+      },
+      "ceramic": {
+        "title": "Kerámia Bevonat",
+        "description": "Hosszú távú védelem és páratlan fény a legmodernebb kerámia bevonat technológiával."
+      },
+      "interior": {
+        "title": "Belső Tisztítás",
+        "description": "Bőr, szövet és minden belső felület mélytisztítása az újszerű vezetési élményért."
+      },
+      "headlight": {
+        "title": "Fényszóró Felújítás",
+        "description": "Elsárgult és matt fényszórók kristálytiszta felújítása – jobb megjelenés és biztonság."
+      },
+      "engine": {
+        "title": "Motortér Tisztítás",
+        "description": "Kíméletes és alapos motortér-tisztítás professzionális szerekkel."
+      },
+      "transmission": {
+        "title": "Automata Váltó Tisztítás",
+        "description": "Az automata váltó öblítése és tisztítása a jobb teljesítmény és élettartam érdekében."
+      }
+    },
+    "cta": "Érdeklődj most"
+  },
+  "process": {
+    "label": "Folyamat",
+    "title": "Hogyan Dolgozunk",
+    "steps": {
+      "step1": {
+        "number": "01",
+        "title": "Időpont Egyeztetés",
+        "description": "Keress minket WhatsApp-on vagy telefonon – megtaláljuk a számodra legjobb időpontot."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Jármű Átvizsgálás",
+        "description": "Helyszínen felmérjük az autó állapotát, és megbeszéljük az optimális kezelést."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Kozmetikázás",
+        "description": "Csapatunk a legnagyobb gondossággal és modern technikával dolgozik az autódon."
+      },
+      "step4": {
+        "number": "04",
+        "title": "Átadás",
+        "description": "Újszerű állapotban kapod vissza az autódat – ápolási tippekkel és garanciával."
+      }
+    }
+  },
+  "gallery": {
+    "label": "Képek",
+    "title": "Munkáink",
+    "filters": {
+      "all": "Összes",
+      "polish": "Polírozás",
+      "ceramic": "Kerámia",
+      "interior": "Belső",
+      "studio": "Stúdió"
+    },
+    "cta": "Összes munka megtekintése"
+  },
+  "contact": {
+    "label": "Kapcsolat",
+    "title": "Lépj Velünk Kapcsolatba",
+    "whatsappBanner": "Írj nekünk közvetlenül WhatsApp-on",
+    "whatsappBtn": "Írj WhatsApp-on most",
+    "info": {
+      "address": "Cím",
+      "addressValue": "Németország",
+      "phone": "Telefon",
+      "phoneValue": "+49 XXX XXXXXXX",
+      "email": "E-mail",
+      "emailValue": "info@fakultatief.de",
+      "hours": "Nyitvatartás",
+      "hoursValue": "H – P: 08:00 – 17:00 | Szo: 09:00 – 14:00"
+    },
+    "form": {
+      "name": "Neved",
+      "email": "E-mail címed",
+      "message": "Üzeneted",
+      "send": "Üzenet küldése"
+    }
+  },
+  "footer": {
+    "description": "Prémium autókozmetika Németországban. Professzionális lakkjavítás, kerámia bevonat és autóápolás.",
+    "quickLinks": "Gyors Linkek",
+    "ourServices": "Szolgáltatások",
+    "contactTitle": "Kapcsolat",
+    "rights": "Minden jog fenntartva.",
+    "impressum": "Impresszum",
+    "datenschutz": "Adatvédelem"
+  }
+}
