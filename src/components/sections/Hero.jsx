@@ -52,7 +52,9 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4, duration: 0.7 }}
           >
-            <H1 className="mb-2">{t("title")}</H1>
+            <H1 className="mb-2" weight="font-black">
+              {t("title")}
+            </H1>
           </motion.div>
 
           {/* Cyan accent line */}
