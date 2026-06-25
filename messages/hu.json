@@ -17,12 +17,15 @@
     "subtitle": "Autókozmetika és lakkápolás a legmagasabb szinten",
     "cta": "Írj WhatsApp-on",
     "ctaSecondary": "Szolgáltatásaink",
-    "badge": "Prémium Detailing"
+    "badge": "Prémium Detailing",
+    "polish": "Polír",
+    "service": "Szervíz",
+    "details": "Részletek"
   },
   "about": {
     "label": "Rólunk",
     "title": "Tökéletesség és Szenvedély",
-    "description": "A Fakultatief Garage Németországban nyújt professzionális autókozmetikai szolgáltatásokat. Korszerű felszereltséggel, hexagonális LED-es stúdióval és prémium termékekkel dolgozunk, hogy autód ragyogjon.",
+    "description": "Minden egy kis polírozó műhellyel kezdődött, ahol a tökéletes fény megteremtése volt a legfőbb célunk. Ahogy nőtt az ügyfeleink bizalma, úgy bővült a szenvedélyünk is: ma már nemcsak a járművek külsejét varázsoljuk újjá, hanem professzionális szervíz szolgáltatásokkal is gondoskodunk a tökéletes műszaki állapotról. A Fakultatief Garage ma már az autóápolás és karbantartás komplex központja.",
     "features": {
       "experience": "Többéves szakmai tapasztalat",
       "quality": "Kizárólag prémium anyagok és termékek",
@@ -58,7 +61,19 @@
       "transmission": {
         "title": "Automata Váltó Tisztítás",
         "description": "Az automata váltó öblítése és tisztítása a jobb teljesítmény és élettartam érdekében."
+      },
+      "brakes": {
+        "title": "Fékrendszer Karbantartás",
+        "description": "Fékbetétek és tárcsák professzionális cseréje, valamint a fékrendszer teljeskörű átvizsgálása."
+      },
+      "oil": {
+        "title": "Időszakos Szervíz & Olajcsere",
+        "description": "Prémium minőségű olajok használata és az autó teljes állapotfelmérése a hosszú élettartamért."
       }
+    },
+    "tabs": {
+      "polish": "Polírozás",
+      "service": "Szervíz"
     },
     "cta": "Érdeklődj most"
   },

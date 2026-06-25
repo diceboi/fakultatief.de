@@ -17,12 +17,15 @@
     "subtitle": "Car Detailing & Paint Care at the Highest Level",
     "cta": "Write on WhatsApp",
     "ctaSecondary": "Our Services",
-    "badge": "Premium Detailing"
+    "badge": "Premium Detailing",
+    "polish": "Polishing",
+    "service": "Service",
+    "details": "Details"
   },
   "about": {
     "label": "About Us",
     "title": "Perfection Meets Passion",
-    "description": "Fakultatief Garage is your expert for professional car detailing in Germany. With state-of-the-art equipment, a hexagon LED-lit studio, and premium products, we take your vehicle to the next level.",
+    "description": "It all started with a small polishing workshop where achieving the perfect shine was our primary goal. As our clients' trust grew, so did our passion: today, we not only revitalize the exterior of vehicles, but we also ensure perfect technical condition through our professional service. Fakultatief Garage is now a comprehensive center for car care and maintenance.",
     "features": {
       "experience": "Years of industry experience",
       "quality": "Only premium products & materials",
@@ -56,9 +59,21 @@
         "description": "Gentle and thorough engine bay cleaning using professional-grade products."
       },
       "transmission": {
-        "title": "Automatic Transmission Service",
-        "description": "Flushing and cleaning of automatic transmissions for better performance and longevity."
+        "title": "Automatic Transmission Flush",
+        "description": "Flushing and cleaning the automatic transmission for better performance and longevity."
+      },
+      "brakes": {
+        "title": "Brake System Maintenance",
+        "description": "Professional replacement of brake pads and discs, along with a comprehensive brake system inspection."
+      },
+      "oil": {
+        "title": "Periodic Service & Oil Change",
+        "description": "Using premium quality oils and providing a full vehicle condition check for long-lasting reliability."
       }
+    },
+    "tabs": {
+      "polish": "Polishing",
+      "service": "Service"
     },
     "cta": "Inquire now"
   },

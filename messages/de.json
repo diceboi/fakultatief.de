@@ -17,12 +17,15 @@
     "subtitle": "Fahrzeugaufbereitung & Lackpflege auf höchstem Niveau",
     "cta": "WhatsApp schreiben",
     "ctaSecondary": "Unsere Leistungen",
-    "badge": "Premium Detailing"
+    "badge": "Premium Detailing",
+    "polish": "Polieren",
+    "service": "Service",
+    "details": "Details"
   },
   "about": {
     "label": "Über uns",
     "title": "Perfektion trifft Leidenschaft",
-    "description": "Fakultatief Garage ist Ihr Experte für professionelle Fahrzeugaufbereitung in Deutschland. Mit modernster Ausstattung, einem Hexagon-LED-beleuchteten Studio und hochwertigen Produkten bringen wir Ihren Wagen auf das nächste Level.",
+    "description": "Alles begann mit einer kleinen Polierwerkstatt, in der der perfekte Glanz unser oberstes Ziel war. Mit dem Vertrauen unserer Kunden wuchs auch unsere Leidenschaft: Heute veredeln wir nicht nur das Äußere von Fahrzeugen, sondern sorgen durch unseren professionellen Service auch für den perfekten technischen Zustand. Fakultatief Garage ist heute ein umfassendes Zentrum für Fahrzeugpflege und -wartung.",
     "features": {
       "experience": "Jahrelange Erfahrung in der Branche",
       "quality": "Nur hochwertige Produkte & Materialien",
@@ -56,9 +59,21 @@
         "description": "Schonende und gründliche Reinigung des Motorraums mit professionellen Mitteln."
       },
       "transmission": {
-        "title": "Automatikgetriebe-Service",
-        "description": "Spülung und Reinigung des Automatikgetriebes für bessere Performance und Langlebigkeit."
+        "title": "Automatikgetriebespülung",
+        "description": "Spülung und Reinigung des Automatikgetriebes für bessere Leistung und längere Lebensdauer."
+      },
+      "brakes": {
+        "title": "Bremsenservice",
+        "description": "Professioneller Austausch von Bremsbelägen und -scheiben sowie umfassende Inspektion des Bremssystems."
+      },
+      "oil": {
+        "title": "Inspektion & Ölwechsel",
+        "description": "Verwendung von Premium-Ölen und vollständiger Fahrzeugcheck für dauerhafte Zuverlässigkeit."
       }
+    },
+    "tabs": {
+      "polish": "Polieren",
+      "service": "Service"
     },
     "cta": "Jetzt anfragen"
   },

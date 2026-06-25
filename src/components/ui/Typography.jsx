@@ -24,7 +24,7 @@ export function H1({
 }) {
   return (
     <Tag
-      className={`font-heading lowercase ${color} ${weight} ${className}`}
+      className={`font-heading lowercase tracking-tighter ${color} ${weight} ${className}`}
       style={{ fontSize: "var(--type-h1)", lineHeight: 1.05 }}
       {...props}
     >
